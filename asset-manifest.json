@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Finder-App/static/css/main.12d566b1.chunk.css",
+    "main.js": "/Finder-App/static/js/main.3020df3c.chunk.js",
+    "main.js.map": "/Finder-App/static/js/main.3020df3c.chunk.js.map",
+    "runtime-main.js": "/Finder-App/static/js/runtime-main.f394531d.js",
+    "runtime-main.js.map": "/Finder-App/static/js/runtime-main.f394531d.js.map",
+    "static/js/2.dbf0e37a.chunk.js": "/Finder-App/static/js/2.dbf0e37a.chunk.js",
+    "static/js/2.dbf0e37a.chunk.js.map": "/Finder-App/static/js/2.dbf0e37a.chunk.js.map",
+    "index.html": "/Finder-App/index.html",
+    "static/css/main.12d566b1.chunk.css.map": "/Finder-App/static/css/main.12d566b1.chunk.css.map",
+    "static/js/2.dbf0e37a.chunk.js.LICENSE.txt": "/Finder-App/static/js/2.dbf0e37a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f394531d.js",
+    "static/js/2.dbf0e37a.chunk.js",
+    "static/css/main.12d566b1.chunk.css",
+    "static/js/main.3020df3c.chunk.js"
+  ]
+}
